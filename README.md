@@ -1,16 +1,22 @@
-# latihan_api
+# Latihan API Restaurant
+POST & DELETE tidak bisa (Token ?)
 
-A new Flutter project.
+## Progress
+### MENU:
+(OK) Get all Menu
 
-## Getting Started
+(OK) Get single Menu
 
-This project is a starting point for a Flutter application.
+(...) Get all Menu linked to a Restaurant
 
-A few resources to get you started if this is your first Flutter project:
+### RESTAURANT:
+(...) Get all Restaurants
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+(...) Get single Restaurants
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+(...) Get all Restaurants by sorting
+
+(...) Restaurants Query and Filter
+
+### OTHER:
+(...) Search
